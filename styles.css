@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(240, 119, 113);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(110, 16, 16);
+    background-color: rgb(255, 141, 160);
+    border: rgb(217, 62, 62) solid;
+    padding: 10px 10px;
+    margin: auto;
+    width: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Recipes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+    width: 400px;
+    border: black solid;
+    text-align: center;
+    padding: 8px 8px;
+    margin: 520px;
+}
+
+a {
+    color: black;
+}
+.Pizza {
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.Pancakes {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Spaghetti {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
